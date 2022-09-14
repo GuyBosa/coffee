@@ -1,7 +1,7 @@
 # Coffee App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
-<img width="1920" alt="Untitled-thandeka" src="https://user-images.githubusercontent.com/40579537/190095543-c295d99f-4fe0-43a5-a608-9d14d630a451.png">
+<img width="958" alt="Capture-coffe" src="https://user-images.githubusercontent.com/40579537/190095792-eb1f7fa3-d185-4cb6-a606-5e268e346500.PNG">
 
 
 ## Git
