@@ -1,6 +1,7 @@
 # Coffee App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+<img width="1920" alt="Untitled-thandeka" src="https://user-images.githubusercontent.com/40579537/190095543-c295d99f-4fe0-43a5-a608-9d14d630a451.png">
 
 
 ## Git
@@ -15,6 +16,12 @@ Make sure you have [Angular CLI] installed on your PC. See https://angular.io/cl
 ## Development server
 
 Run `npm install --legacy-peer-deps` followed by `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Note Below
+Due to peer-dependency issues with the local repo angular version and your workstation angular version,
+if node modules persist with exceptions and errors, download the repo here:
+https://drive.google.com/file/d/1T6ZMlRLohMOBCadKNoWkhLk574vwzZK3/view?usp=sharing
+
 
 ## Code scaffolding
 
