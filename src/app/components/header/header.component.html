@@ -1,0 +1,17 @@
+<ul>
+  <li>
+    <a routerLink="/menu" routerLinkActive="active">
+      Menu
+    </a>
+  </li>
+  <li>
+    <a routerLink="/cart" routerLinkActive="active">
+      Cart ({{ cartCount$ | async }})
+    </a>
+  </li>
+  <li *ngIf="isFeatureRemixOn">
+    <a routerLink="/remix" routerLinkActive="active">
+      Customize your own
+    </a>
+  </li>
+</ul>
